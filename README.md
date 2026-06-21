@@ -4,8 +4,8 @@ Program menghitung mobil pada foto aerial area parkir dengan pengolahan citra kl
 
 ## Identitas
 
-- **Nama:** `[Isi nama Anda]`
-- **NRP:** `[Isi NRP Anda]`
+- **Nama:** Muhammad Syaiful Kalam`
+- **NRP:** `5024241093`
 
 ## Hasil
 
