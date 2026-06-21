@@ -1,0 +1,4 @@
+Jumlah mobil terdeteksi: 29
+Horizontal: 28
+Vertikal merah: 1
+Threshold Otsu: 146
